@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "LTSEf6HAvdCGqTLUqXT9MRZJXNOQ8hPFk9amu+TOgio=",
+  "Source": "TGS-Server",
+  "BasePath": "_content/TGS-Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TGS-Server", "TGS-Server\TGS-Server.csproj", "{9EDEB548-3711-4CFB-B829-85185C0AD623}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "Domain\Domain.csproj", "{578CE3F1-6AC6-40DF-A1A1-FA0D1E3B676C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Services", "Services\Services.csproj", "{38DD51DC-41D1-4B2E-B365-A7FDB49A42E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EDEB548-3711-4CFB-B829-85185C0AD623}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EDEB548-3711-4CFB-B829-85185C0AD623}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EDEB548-3711-4CFB-B829-85185C0AD623}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EDEB548-3711-4CFB-B829-85185C0AD623}.Release|Any CPU.Build.0 = Release|Any CPU
+		{578CE3F1-6AC6-40DF-A1A1-FA0D1E3B676C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{578CE3F1-6AC6-40DF-A1A1-FA0D1E3B676C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{578CE3F1-6AC6-40DF-A1A1-FA0D1E3B676C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{578CE3F1-6AC6-40DF-A1A1-FA0D1E3B676C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38DD51DC-41D1-4B2E-B365-A7FDB49A42E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38DD51DC-41D1-4B2E-B365-A7FDB49A42E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38DD51DC-41D1-4B2E-B365-A7FDB49A42E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38DD51DC-41D1-4B2E-B365-A7FDB49A42E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8C4BE03-C862-477D-9C76-94872C3DA698}
+	EndGlobalSection
+EndGlobal

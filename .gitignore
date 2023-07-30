@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/TGS-Server/.vs/TGS-Server/FileContentIndex
+/TGS-Server/Services/obj/Debug/net6.0/Services.csproj.AssemblyReference.cache
+/TGS-Server/TGS-Server/obj/Debug/net6.0/TGS-Server.csproj.AssemblyReference.cache
+/TGS-Server/.vs/TGS-Server/v17/.suo
+/TGS-Server/Domain/obj/Debug/net6.0/Domain.assets.cache
+/TGS-Server/Domain/obj/Debug/net6.0/Domain.csproj.CoreCompileInputs.cache
+/TGS-Server/Domain/obj/Debug/net6.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/TGS-Server/Domain/obj/Domain.csproj.nuget.dgspec.json
+/TGS-Server/Domain/obj/Domain.csproj.nuget.g.props
+/TGS-Server/Domain/obj/project.assets.json
+/TGS-Server/Domain/obj/project.nuget.cache
